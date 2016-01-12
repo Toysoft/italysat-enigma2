@@ -18,7 +18,7 @@ enigma.eSocketNotifier = eBaseImpl.eSocketNotifier
 enigma.eConsoleAppContainer = eConsoleImpl.eConsoleAppContainer
 boxtype = getBoxType()
 
-# ItalySat Patch
+# ItalySat Patch (Aded By Sodo)
 from os import system
 PortNumber = "1888"
 try:
